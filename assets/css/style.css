@@ -1,0 +1,14 @@
+ul.menu-direita {
+    color: white;
+    list-style: none;
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+    height: 34px;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+p{
+    text-align: center !important;
+}
